@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::BasicLWP;
 use warnings;
 use strict;
 
-our $VERSION = '0.0101';
+our $VERSION = '0.0102';
 
 use LWP::UserAgent;
 use base 'App::ZofCMS::Plugin::Base';

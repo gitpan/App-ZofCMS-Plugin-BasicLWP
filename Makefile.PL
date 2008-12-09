@@ -9,6 +9,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/App/ZofCMS/Plugin/BasicLWP.pm',
           'PREREQ_PM' => {
                            'Test::More' => 0,
+                           'URI' => '1.35',
                            'LWP::Simple' => '1.41',
                            'App::ZofCMS::Plugin::Base' => '0.0102'
                          }

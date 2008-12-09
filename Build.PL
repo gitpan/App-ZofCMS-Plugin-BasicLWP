@@ -14,6 +14,7 @@ my $builder = Module::Build->new(
         'App::ZofCMS::Test::Plugin' => 0.0104,
     },
     requires => {
+        'URI'  => 1.35,
         'LWP::Simple'               => 1.41,
         'App::ZofCMS::Plugin::Base' => 0.0102,
     },
