@@ -1,6 +1,6 @@
 ---
 name: App-ZofCMS-Plugin-BasicLWP
-version: 0.0103
+version: 0.0104
 author:
   - "Zoffix <'zoffix@cpan.org'>"
 abstract: very basic "uri-to-content" style LWP plugin for ZofCMS.
@@ -18,7 +18,7 @@ configure_requires:
 provides:
   App::ZofCMS::Plugin::BasicLWP:
     file: lib/App/ZofCMS/Plugin/BasicLWP.pm
-    version: 0.0103
+    version: 0.0104
 generated_by: Module::Build version 0.34
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
