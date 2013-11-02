@@ -17,7 +17,9 @@ my $builder = Module::Build->new(
         'URI'  => 1.35,
         'LWP::Simple'               => 1.41,
         'App::ZofCMS::Plugin::Base' => 0.0102,
+        perl                        => '5.006',
     },
+    configure_requires => { 'Module::Build' => 0 },
     add_to_cleanup      => [ 'App-ZofCMS-Plugin-BasicLWP-*' ],
     create_makefile_pl => 'traditional',
 );

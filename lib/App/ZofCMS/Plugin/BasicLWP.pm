@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::BasicLWP;
 use warnings;
 use strict;
 
-our $VERSION = '0.0104';
+our $VERSION = '0.0105';
 
 use LWP::UserAgent;
 use base 'App::ZofCMS::Plugin::Base';
@@ -57,6 +57,8 @@ sub _do {
 
 1;
 __END__
+
+=encoding utf8
 
 =head1 NAME
 

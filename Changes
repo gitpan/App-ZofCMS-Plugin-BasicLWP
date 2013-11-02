@@ -1,14 +1,17 @@
 Revision history for App-ZofCMS-Plugin-BasicLWP
 
-0.0104  August 1, 2009
-        Had to reupload due to PAUSE breaking on me
+0.0105  2013-11-01
+        - Minor fixes to comply with specs and Kwalitee game
 
-0.0103  July 31, 2009
-        Added missing part of docs
+0.0104  2010-08-01
+        - Had to reupload due to PAUSE breaking on me
 
-0.0102  December 9, 2008
-        Fixed apparently broken prereqs
+0.0103  2010-07-31
+        - Added missing part of docs
 
-0.0101  December 7, 2008
-        First version, released on an unsuspecting world.
+0.0102  2009-12-09
+        - Fixed apparently broken prereqs
+
+0.0101  2009-12-07
+        - First version, released on an unsuspecting world.
 
